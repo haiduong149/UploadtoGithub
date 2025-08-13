@@ -26,7 +26,7 @@ public class Binhlinh {
 	}
 	public void InThongTin ()
 	{
-		System.out.println(Ten + " co chi so suc manh " + SucManh);
+		System.out.println(Ten + " co chi so suc manh la " + SucManh);
 	}
 	public int ChienDau(Binhlinh LINH)
 	{
